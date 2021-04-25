@@ -1,5 +1,8 @@
+com\dg\spring02\intercetor\SessionInterceptor.class
+com\dg\spring02\intercetor\UserInterceptor.class
+com\dg\spring02\Spring02Application.class
+com\dg\spring02\controller\LoginController.class
 com\dg\spring02\entity\User.class
 com\dg\spring02\mapper\UserMapper.class
-com\dg\spring02\Spring02Application.class
 com\dg\spring02\controller\UserController.class
 com\dg\spring02\service\UserService.class
